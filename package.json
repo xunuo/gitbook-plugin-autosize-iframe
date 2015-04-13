@@ -1,8 +1,8 @@
 {
     "name": "gitbook-plugin-autosize-iframe",
-    "description": "Gitbook 定制侧边栏Introduction文案插件",
+    "description": "Gitbook plugin - autosize iframes",
     "main": "index.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "gitbook": "*"
     },
